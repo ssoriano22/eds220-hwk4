@@ -10,7 +10,6 @@ The below directory tree maps out the layout of this repository:
 .
 ├── .gitignore
 │   └── data
-│       ├── California_Historic_Fire_Perimeters_-6302641808644124224
 │       ├── California_Historic_Fire_Perimeters_7724575715026190580
 │       ├── landsat8-2025-02-23-palisades-eaton.nc
 │       └── MetadataFRAP_CAHistoricalFirePerimeters.pdf
