@@ -21,7 +21,7 @@ The below directory tree maps out the layout of this repository:
 
 California Department of Forestry and Fire Protection. (2026). California fire perimeters (1950+) (Version firep25_1) [Data set]. California State Geoportal. [https://gis.data.ca.gov/maps/c3c10388e3b24cec8a954ba10458039d/about](https://gis.data.ca.gov/maps/c3c10388e3b24cec8a954ba10458039d/about)
 
-U.S. Geological Survey. (2025). Landsat 8–9 OLI/TIRS Collection 2 Level-2 science products [Data set]. Microsoft Planetary Computer. [https://doi.org/10.5066/P9OGBGM6](https://doi.org/10.5066/P9OGBGM6). Retrieved from EDS220 Google Drive.
+Earth Resources Observation and Science (EROS) Center. (2020). Landsat 8-9 Operational Land Imager / Thermal Infrared Sensor Level-2, Collection 2 [dataset]. U.S. Geological Survey. [https://doi.org/10.5066/P9OGBGM6](https://doi.org/10.5066/P9OGBGM6)
 
 ## Authors
 
